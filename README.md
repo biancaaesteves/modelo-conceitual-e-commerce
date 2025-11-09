@@ -1,3 +1,5 @@
+---
+
 # 📘 Projeto de E-commerce – Modelo Conceitual
 
 Este repositório faz parte da **Formação SQL Specialist**, da **Digital Innovation One (DIO)**.
@@ -109,3 +111,6 @@ O modelo foi refinado para contemplar clientes PF/PJ, múltiplas formas de pagam
 ---
 
 ✨ *Projeto desenvolvido por Bianca Aguiar Esteves durante a Formação SQL Specialist – DIO.*
+
+---
+
